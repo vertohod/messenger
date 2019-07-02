@@ -1,3 +1,12 @@
 [submodule "include"]
 	path = include
 	url = https://github.com/vertohod/include.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "websocketpp"]
+	path = websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git
