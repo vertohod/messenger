@@ -13,3 +13,6 @@
 [submodule "swarm"]
 	path = swarm
 	url = https://github.com/vertohod/swarm.git
+[submodule "chatd"]
+	path = chatd
+	url = https://github.com/vertohod/chatd.git
